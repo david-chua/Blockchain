@@ -14,6 +14,7 @@ def new_block():
         return 'Missing Values', 400
 
     # TODO: Verify that the sender is one of our peers
+    chain = [{'proof', 'index: 1}, {'index: 2'}'}]
 
     # TODO: Check that the new block index is 1 higher than our last block
     # that it has a valid proof
